@@ -1,0 +1,41 @@
+.modal-content{
+    display: flex;
+    flex-direction: column;
+    min-width: 210px;
+    min-height: 100px;
+    
+}
+
+.credentials {
+    width: 100%;
+    margin-top:10px;
+}
+#username-input-style{
+    width: 100%;
+}
+
+#password-input-style{  
+}
+
+#logged-in-user {
+    width: 150px;
+    background-color: rgb(239, 232, 155);
+    border-radius: 20px;
+    height: 25px;
+    align-items: center;
+    display:flex;
+    justify-content: center;
+    font-family: 'Parisienne', cursive;
+    font-size: 20px;
+    color: black;
+}
+.login-button-container {
+    margin-left:2px;
+    display:flex;
+    justify-content: left;
+    margin-top:10px;
+}
+
+.login-button-style {
+    height: 20px;
+}

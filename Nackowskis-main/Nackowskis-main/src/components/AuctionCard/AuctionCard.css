@@ -1,0 +1,41 @@
+.auction-card {
+    position: relative;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 300px;
+    height: 380px;
+    background-color: rgb(138, 138, 138);
+    box-sizing: border-box;
+    margin: 15px;
+    border: 3px solid white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5), 0 6px 20px 0 rgba(0, 0, 0, 0.70);
+}
+
+#auctioncard-img {
+    height: auto;
+    width: 100%;
+    max-width: 100%;
+}
+
+#time-left {
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 5px;
+    margin: 0;
+}
+
+#titel-product {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    margin-top: 3px;
+    margin-left: 7px;
+}
+
+#highest-bid-product {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    margin-top: 10px;
+    margin-left: 7px;
+    font-weight: bold;
+}
