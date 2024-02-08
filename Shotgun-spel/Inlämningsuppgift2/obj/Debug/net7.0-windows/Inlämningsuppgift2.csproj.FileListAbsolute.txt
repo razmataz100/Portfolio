@@ -1,0 +1,16 @@
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\net7.0-windows\Inlämningsuppgift2.ShotgunGame.resources
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\net7.0-windows\Inlämningsuppgift2.csproj.GenerateResource.cache
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\net7.0-windows\Inlämningsuppgift2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\net7.0-windows\Inlämningsuppgift2.AssemblyInfoInputs.cache
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\net7.0-windows\Inlämningsuppgift2.AssemblyInfo.cs
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\net7.0-windows\Inlämningsuppgift2.csproj.CoreCompileInputs.cache
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\bin\Debug\net7.0-windows\Inlämningsuppgift2.exe
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\bin\Debug\net7.0-windows\Inlämningsuppgift2.deps.json
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\bin\Debug\net7.0-windows\Inlämningsuppgift2.runtimeconfig.json
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\bin\Debug\net7.0-windows\Inlämningsuppgift2.dll
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\bin\Debug\net7.0-windows\Inlämningsuppgift2.pdb
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\net7.0-windows\Inlämningsuppgift2.dll
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\net7.0-windows\refint\Inlämningsuppgift2.dll
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\net7.0-windows\Inlämningsuppgift2.pdb
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\net7.0-windows\Inlämningsuppgift2.genruntimeconfig.cache
+C:\Nackademin\Nackademin\C#\Inlämningsuppgift2\Inlämningsuppgift2\obj\Debug\net7.0-windows\ref\Inlämningsuppgift2.dll
