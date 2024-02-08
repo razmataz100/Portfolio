@@ -1,0 +1,43 @@
+.forecast-container{
+    background-color: transparent;
+    height: 49%;
+    width: 100%;
+    top: 47%;
+    left:20px;
+    right:20px;
+    bottom: 30%;
+    border-radius: 20px;
+    position: fixed;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+.day-containers{
+    box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.3);
+    background-color: rgb(233, 231, 228);
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 10px;
+    position: relative;
+    margin-top: -10px;
+    margin-left: 15px;
+    box-sizing: border-box;
+    width: 16%;
+    height: 100%;
+    max-height: 700px;
+    vertical-align: top; 
+    
+}
+
+#condition2-style{
+    margin-top: -15px;
+    height: 50px;
+}
+
+#max-style {
+    margin-top: -5px;
+    margin-bottom: -5px;
+}
+
+#min-style {
+    margin-top: 10px;
+}

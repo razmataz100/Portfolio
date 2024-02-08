@@ -1,0 +1,47 @@
+.current-city-container{
+    background-color: rgb(233, 231, 228);
+    height: 38%;
+    width: 40%;
+    top: 20px;
+    border-radius: 20px;
+    left: 34%;
+    position: fixed;
+    box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.3);
+    font-family: 'Roboto', 'Arial', sans-serif;
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+    vertical-align: bottom; 
+}
+
+#city-style{
+    margin-top: 16px;
+    margin-right: 280px;    
+}
+
+.weather-info {
+    margin-right: 280px;
+    margin-bottom: 10px;
+}
+
+#temp-style{
+    margin-top: -10px;
+    font-size: larger;
+}
+
+#icon1-style{
+    margin-top: -15px;
+}
+
+#condition1-style {
+    margin-top: -5px;
+}
+
+#time-style{
+    margin-left: 200px;
+    margin-top: -173px;
+}
+
+.info1-style{
+    margin-left: 200px;
+    margin-top: 15px;
+}
+
